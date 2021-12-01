@@ -2,4 +2,4 @@
 
 - Npm install 
   - Install any dependencies
-  - A secret will need to be created in .env file
+  - A SECRET will need to be created in .env file
